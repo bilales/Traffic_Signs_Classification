@@ -83,4 +83,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 6.  Open a Pull Request.
 
 ## 📜 License
-This project is licensed under the [Your License Name] License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
